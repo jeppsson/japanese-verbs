@@ -1,109 +1,109 @@
-plain positive,,,
-to meet,会う,あう,au
-to open,開く,あく,aku
-to open,開ける,あける,akeru
-to give,,あげる,ageru
-to play,遊ぶ,あそぶ,asobu
-to take a shower,浴びる,あびる,abiru
-to wash,洗う,あらう,arau
-"to be, to exist",有る,ある,aru
-to possess,ある,ある,aru
-to walk,歩く,あるく,aruku
-"to say, to tell",言う,いう,iu
-to go,行く,いく,iku
-"need, must haven be required",,いる,iru
-to exist,,いる,iru
-"to insert, to put in",入れる,いれる,ireru
-to sing,歌う,うたう,utau
-to be born,生まれる,うまれる,umareru
-to sell,売る,うる,uru
-"to get up, to stand up",起きる,おきる,okiru
-to put,,おく,oku
-to send,送る,おくる,okuru
-to push,押す,おす,osu
-"to memorize, to remember",覚える,おぼえる,oboeru
-to swim,泳ぐ,およぐ,oyogu
-to get off,降りる,おりる,oriru
-to end,終わる,おわる,owaru
-to buy,買う,かう,kau
-to return an object,返す,かえす,kaesu
-to return home,帰る,かえる,kaeru
-to take time or money,,かかる,kakaru
-to write,書く,かく,kaku
-to wear,,かける,kakeru
-to make a phone call,,かける,kakeru
-to lend,貸す,かす,kasu
-to put on a hat,冠る,かぶる,kaburu
-to borrow,借りる,かりる,kariru
-"to go out, to vanish",消える,きえる,kieru
-to listen,聞く,きく,kiku
-to cut,切る,きる,kiru
-"to wear, to put on",着る,きる,kiru
-to come,来る,くる,kuru
-"to turn off, to switch off",消す,けす,kesu
-to answer,答える,こたえる,kotaeru
-to be in trouble,困る,こまる,komaru
-to blossom,咲く,さく,saku
-to open an umbrella,,さす,sasu
-"to die, to pass away",死ぬ,しぬ,shinu
-to close,閉まる,しまる,shimaru
-to close,閉める,しめる,shimeru
-to fasten a belt,締める,しめる,shimeru
-to know,知る,しる,shiru
-"to breath, to smoke",吸う,すう,suu
-"to live, to reside somewhere",住む,すむ,sumu
-to do,する,する,suru
-to sit,座る,すわる,suwaru
-"to take out, hand in",出す,だす,dasu
-to stand,立つ,たつ,tatsu
-"to ask, to request",頼む,たのむ,tanomu
-to eat,食べる,たべる,taberu
-to be different,違う,ちがう,chigau
-to use,使う,つかう,tsukau
-to get tired,疲れる,つかれる,tsukareru
-to arrive,着く,つく,tsuku
-"to make, to produce",作る,つくる,tsukuru
-to turn on,点ける,つける,tsukeru
-to work for someone,勤める,つとめる,tsutomeru
-to go out,出かける,でかける,dekakeru
-can do,出来る,できる,dekiru
-to leave,出る,でる,deru
-to fly,飛ぶ,とぶ,tobu
-to stop,止まる,とまる,tomaru
-to take,取る,とる,toru
-to take a photo,撮る,とる,toru
-"to sing, mew, moo",鳴く,なく,naku
-to form a line,並ぶ,ならぶ,narabu
-to line up,並べる,ならべる,naraberu
-to become,,なる,naru
-to take off clothes,脱ぐ,ぬぐ,nugu
-to sleep,寝る,ねる,neru
-to climb up,登る,のぼる,noboru
-to drink,飲む,のむ,nomu
-"to take, to ride",乗る,のる,noru
-to enter,入る,はいる,hairu
-to put on shoes,履く,はく,haku
-"to begin, to start",始まる,はじまる,hajimaru
-to run,走る,はしる,hashiru
-to work,働く,はたらく,hataraku
-"to talk, to speak, to tell",話す,はなす,hanasu
-"to put something on, to stick",張る,はる,haru
-to clear up,晴れる,はれる,hareru
-to pull,引く,ひく,hiku
-to play an instrument,弾く,ひく,hiku
-to blow (wind),吹く,ふく,fuku
-"to fall (rain, snow)",降る,ふる,furu
-to turn,曲がる,まがる,magaru
-to wait,待つ,まつ,matsu
-"to polish, to brush",磨く,みがく,migaku
-to show,見せる,みせる,miseru
-"to see, to watch",見る,みる,miru
-"to have, to own",持つ,もつ,motsu
-to rest,休む,やすむ,yasumu
-to do,,やる,yaru
-to call,呼ぶ,よぶ,yobu
-to read,読む,よむ,yomu
-"to know, to understand",分かる,わかる,wakaru
-to forget,忘れる,わすれる,wasureru
-to hand over,渡す,わたす,watasu
-to cross,渡る,わたる,wataru
+plain positive,,,,potential plain positive,,,
+to meet,会う,あう,au,can meet,会える,,aeru
+to open,開く,あく,aku,,,,
+to open,開ける,あける,akeru,,,,
+to give,,あげる,ageru,,,,
+to play,遊ぶ,あそぶ,asobu,,,,
+to take a shower,浴びる,あびる,abiru,,,,
+to wash,洗う,あらう,arau,,,,
+"to be, to exist",有る,ある,aru,,,,
+to possess,ある,ある,aru,,,,
+to walk,歩く,あるく,aruku,can walk,歩ける,,arukeru
+"to say, to tell",言う,いう,iu,,,,
+to go,行く,いく,iku,,,,
+"need, must haven be required",,いる,iru,,,,
+to exist,,いる,iru,,,,
+"to insert, to put in",入れる,いれる,ireru,,,,
+to sing,歌う,うたう,utau,,,,
+to be born,生まれる,うまれる,umareru,,,,
+to sell,売る,うる,uru,,,,
+"to get up, to stand up",起きる,おきる,okiru,,,,
+to put,,おく,oku,,,,
+to send,送る,おくる,okuru,,,,
+to push,押す,おす,osu,,,,
+"to memorize, to remember",覚える,おぼえる,oboeru,,,,
+to swim,泳ぐ,およぐ,oyogu,,,,
+to get off,降りる,おりる,oriru,,,,
+to end,終わる,おわる,owaru,,,,
+to buy,買う,かう,kau,,,,
+to return an object,返す,かえす,kaesu,,,,
+to return home,帰る,かえる,kaeru,,,,
+to take time or money,,かかる,kakaru,,,,
+to write,書く,かく,kaku,,,,
+to wear,,かける,kakeru,,,,
+to make a phone call,,かける,kakeru,,,,
+to lend,貸す,かす,kasu,,,,
+to put on a hat,冠る,かぶる,kaburu,,,,
+to borrow,借りる,かりる,kariru,,,,
+"to go out, to vanish",消える,きえる,kieru,,,,
+to listen,聞く,きく,kiku,,,,
+to cut,切る,きる,kiru,,,,
+"to wear, to put on",着る,きる,kiru,,,,
+to come,来る,くる,kuru,,,,
+"to turn off, to switch off",消す,けす,kesu,,,,
+to answer,答える,こたえる,kotaeru,,,,
+to be in trouble,困る,こまる,komaru,,,,
+to blossom,咲く,さく,saku,,,,
+to open an umbrella,,さす,sasu,,,,
+"to die, to pass away",死ぬ,しぬ,shinu,,,,
+to close,閉まる,しまる,shimaru,,,,
+to close,閉める,しめる,shimeru,,,,
+to fasten a belt,締める,しめる,shimeru,,,,
+to know,知る,しる,shiru,,,,
+"to breath, to smoke",吸う,すう,suu,,,,
+"to live, to reside somewhere",住む,すむ,sumu,,,,
+to do,する,する,suru,,,,
+to sit,座る,すわる,suwaru,,,,
+"to take out, hand in",出す,だす,dasu,,,,
+to stand,立つ,たつ,tatsu,,,,
+"to ask, to request",頼む,たのむ,tanomu,,,,
+to eat,食べる,たべる,taberu,,,,
+to be different,違う,ちがう,chigau,,,,
+to use,使う,つかう,tsukau,,,,
+to get tired,疲れる,つかれる,tsukareru,,,,
+to arrive,着く,つく,tsuku,,,,
+"to make, to produce",作る,つくる,tsukuru,,,,
+to turn on,点ける,つける,tsukeru,,,,
+to work for someone,勤める,つとめる,tsutomeru,,,,
+to go out,出かける,でかける,dekakeru,,,,
+can do,出来る,できる,dekiru,,,,
+to leave,出る,でる,deru,,,,
+to fly,飛ぶ,とぶ,tobu,,,,
+to stop,止まる,とまる,tomaru,,,,
+to take,取る,とる,toru,,,,
+to take a photo,撮る,とる,toru,,,,
+"to sing, mew, moo",鳴く,なく,naku,,,,
+to form a line,並ぶ,ならぶ,narabu,,,,
+to line up,並べる,ならべる,naraberu,,,,
+to become,,なる,naru,,,,
+to take off clothes,脱ぐ,ぬぐ,nugu,,,,
+to sleep,寝る,ねる,neru,,,,
+to climb up,登る,のぼる,noboru,,,,
+to drink,飲む,のむ,nomu,,,,
+"to take, to ride",乗る,のる,noru,,,,
+to enter,入る,はいる,hairu,,,,
+to put on shoes,履く,はく,haku,,,,
+"to begin, to start",始まる,はじまる,hajimaru,,,,
+to run,走る,はしる,hashiru,,,,
+to work,働く,はたらく,hataraku,,,,
+"to talk, to speak, to tell",話す,はなす,hanasu,,,,
+"to put something on, to stick",張る,はる,haru,,,,
+to clear up,晴れる,はれる,hareru,,,,
+to pull,引く,ひく,hiku,,,,
+to play an instrument,弾く,ひく,hiku,,,,
+to blow (wind),吹く,ふく,fuku,,,,
+"to fall (rain, snow)",降る,ふる,furu,,,,
+to turn,曲がる,まがる,magaru,,,,
+to wait,待つ,まつ,matsu,,,,
+"to polish, to brush",磨く,みがく,migaku,,,,
+to show,見せる,みせる,miseru,,,,
+"to see, to watch",見る,みる,miru,,,,
+"to have, to own",持つ,もつ,motsu,,,,
+to rest,休む,やすむ,yasumu,,,,
+to do,,やる,yaru,,,,
+to call,呼ぶ,よぶ,yobu,,,,
+to read,読む,よむ,yomu,,,,
+"to know, to understand",分かる,わかる,wakaru,,,,
+to forget,忘れる,わすれる,wasureru,,,,
+to hand over,渡す,わたす,watasu,,,,
+to cross,渡る,わたる,wataru,,,,
